@@ -1,2 +1,3 @@
 # CountingLines
-Programm that counts lines in many files
+
+Program that counts lines in many files
