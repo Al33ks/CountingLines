@@ -1,5 +1,7 @@
 # About:
-This program is used to count lines in specific files.
+This script is a simple command-line tool that counts the number of lines in the specified files. It is written in Python and can be run from the terminal with the python command.
+
+To use the script, pass the names of the files you want to count the lines of as command-line arguments. The script will open each file, read it line by line, and keep a count of the number of lines. When it has finished reading all of the files, it will print the total count of lines to the console.
 # Walkthrough
 This line imports the sys module, which provides access to functions and variables used or maintained by the interpreter.
 <pre>
