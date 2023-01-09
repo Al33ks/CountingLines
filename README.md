@@ -38,8 +38,6 @@ And file2.txt contains the following text:
 <pre>
 This is another test.
 </pre>
-Results:<br>
-<img src="https://media.discordapp.net/attachments/930566500643905556/1059863387875573860/image.png"/>
 # Notes
 <li>This script requires Python 3 to run.</li>
 <li>The script assumes that the specified files exist and can be read.</li>
